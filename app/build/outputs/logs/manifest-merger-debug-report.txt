@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:4:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:6:5-89
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:6:22-86
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:9:5-43:19
+INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:9:5-43:19
+	android:extractNativeLibs
+		INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:15:9-50
+activity#com.example.floatingnote.MainActivity
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:exported
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:20:13-54
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:23:27-74
+service#com.example.floatingnote.FloatingNoteService
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:27:9-34:19
+	android:exported
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:29:13-37
+	android:foregroundServiceType
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:28:13-48
+property
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:31:13-33:43
+	android:value
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:33:17-40
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:32:17-76
+receiver#com.example.floatingnote.BootReceiver
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:36:9-42:20
+	android:exported
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:37:13-41
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:39:13-41:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml:40:25-76
+uses-sdk
+INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml
+INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sherin/floating-note/app/src/main/AndroidManifest.xml

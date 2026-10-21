@@ -1,0 +1,16 @@
+com.example.floatingnote:string/app_name = 0x7f050000
+com.example.floatingnote:mipmap/ic_launcher_round = 0x7f040001
+com.example.floatingnote:drawable/resize_handle = 0x7f030001
+com.example.floatingnote:drawable/btn_bg = 0x7f030000
+com.example.floatingnote:dimen/text_size = 0x7f020003
+com.example.floatingnote:dimen/radius = 0x7f020002
+com.example.floatingnote:dimen/padding = 0x7f020001
+com.example.floatingnote:dimen/handle_height = 0x7f020000
+com.example.floatingnote:style/Theme.FloatingNote = 0x7f060000
+com.example.floatingnote:color/adwaita_text = 0x7f010004
+com.example.floatingnote:drawable/rounded_bg = 0x7f030002
+com.example.floatingnote:color/adwaita_bg = 0x7f010001
+com.example.floatingnote:color/adwaita_handle = 0x7f010003
+com.example.floatingnote:mipmap/ic_launcher = 0x7f040000
+com.example.floatingnote:color/adwaita_border = 0x7f010002
+com.example.floatingnote:color/adwaita_accent = 0x7f010000

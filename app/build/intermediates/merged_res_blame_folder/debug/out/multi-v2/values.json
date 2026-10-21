@@ -1,0 +1,142 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/sherin/floating-note/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "294,339,378,416",
+                        "endColumns": "44,38,37,40",
+                        "endOffsets": "334,373,411,452"
+                    }
+                },
+                {
+                    "source": "/home/sherin/floating-note/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,149,198,247",
+                        "endColumns": "48,44,48,48,46",
+                        "endOffsets": "99,144,193,242,289"
+                    }
+                },
+                {
+                    "source": "/home/sherin/floating-note/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "457",
+                        "endColumns": "50",
+                        "endOffsets": "503"
+                    }
+                },
+                {
+                    "source": "/home/sherin/floating-note/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "253"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "508",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "745"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.floatingnote.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/sherin/floating-note/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "294,339,378,416",
+                        "endColumns": "44,38,37,40",
+                        "endOffsets": "334,373,411,452"
+                    }
+                },
+                {
+                    "source": "/home/sherin/floating-note/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,149,198,247",
+                        "endColumns": "48,44,48,48,46",
+                        "endOffsets": "99,144,193,242,289"
+                    }
+                },
+                {
+                    "source": "/home/sherin/floating-note/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "457",
+                        "endColumns": "50",
+                        "endOffsets": "503"
+                    }
+                },
+                {
+                    "source": "/home/sherin/floating-note/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "190"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "508",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "682"
+                    }
+                }
+            ]
+        }
+    ]
+}

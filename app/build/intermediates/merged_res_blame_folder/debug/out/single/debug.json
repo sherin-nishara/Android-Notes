@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-merged_res-4:/drawable_rounded_bg.xml.flat",
+        "source": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-main-6:/drawable/rounded_bg.xml"
+    },
+    {
+        "merged": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.floatingnote.app-merged_res-4:/drawable_resize_handle.xml.flat",
+        "source": "com.example.floatingnote.app-main-6:/drawable/resize_handle.xml"
+    },
+    {
+        "merged": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-merged_res-4:/drawable_btn_bg.xml.flat",
+        "source": "/home/sherin/.gradle/daemon/8.2.1/com.example.floatingnote.app-main-6:/drawable/btn_bg.xml"
+    }
+]

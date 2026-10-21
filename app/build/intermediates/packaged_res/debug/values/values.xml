@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="adwaita_accent">#26A269</color>
+    <color name="adwaita_bg">#F5F5F7</color>
+    <color name="adwaita_border">#D1D1D6</color>
+    <color name="adwaita_handle">#E0E0E2</color>
+    <color name="adwaita_text">#1C1C1E</color>
+    <dimen name="handle_height">28dp</dimen>
+    <dimen name="padding">12dp</dimen>
+    <dimen name="radius">16dp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <string name="app_name">Floating Note</string>
+    <style name="Theme.FloatingNote" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/adwaita_bg</item>
+    </style>
+</resources>

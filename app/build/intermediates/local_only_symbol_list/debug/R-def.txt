@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color adwaita_accent
+color adwaita_bg
+color adwaita_border
+color adwaita_handle
+color adwaita_text
+dimen handle_height
+dimen padding
+dimen radius
+dimen text_size
+drawable btn_bg
+drawable resize_handle
+drawable rounded_bg
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.FloatingNote

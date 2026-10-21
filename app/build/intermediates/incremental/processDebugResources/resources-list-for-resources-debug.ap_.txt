@@ -1,0 +1,1 @@
+/home/sherin/floating-note/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat /home/sherin/floating-note/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat /home/sherin/floating-note/app/build/intermediates/merged_res/debug/values_values.arsc.flat 

@@ -1,0 +1,7 @@
+<resources>
+    <color name="adwaita_bg">#F5F5F7</color>
+    <color name="adwaita_handle">#E0E0E2</color>
+    <color name="adwaita_text">#1C1C1E</color>
+    <color name="adwaita_border">#D1D1D6</color>
+    <color name="adwaita_accent">#26A269</color>
+</resources>

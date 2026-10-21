@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.FloatingNote" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/adwaita_bg</item>
+    </style>
+</resources>
